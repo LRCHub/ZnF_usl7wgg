@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Killing Me",
+  "base_artist": "チョンハ",
+  "createdAt": "2025-12-23T14:16:08.699050Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Music City's Killing Me",
+      "artist": "Julie Roberts feat. Jamey Johnson",
+      "has_synced": true,
+      "path": "select/01_Music_City's_Killing_Me_Julie_Roberts_feat._Jamey_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Music City's Killing Me",
+      "artist": "Julie Roberts",
+      "has_synced": true,
+      "path": "select/02_Music_City's_Killing_Me_Julie_Roberts.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Killing Me Softly",
+      "artist": "Fugees",
+      "has_synced": false,
+      "path": "select/03_Killing_Me_Softly_Fugees.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Killing Me Softly With His Song - Live at The Brixton Academy",
+      "artist": "Fugees",
+      "has_synced": true,
+      "path": "select/04_Killing_Me_Softly_With_His_Song_-_Live_at_The_Brixton_Academy_Fugees.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Killing Me Softly With His Song [Live at the Brixton Academy]",
+      "artist": "The Fugees",
+      "has_synced": true,
+      "path": "select/05_Killing_Me_Softly_With_His_Song_[Live_at_the_Brixton_Academy]_The_Fugees.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "This Place Is Killing Me",
+      "artist": "Liam Finn",
+      "has_synced": true,
+      "path": "select/06_This_Place_Is_Killing_Me_Liam_Finn.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Good Times Are Killing Me",
+      "artist": "Modest Mouse",
+      "has_synced": true,
+      "path": "select/07_The_Good_Times_Are_Killing_Me_Modest_Mouse.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "But the Regrets Are Killing Me",
+      "artist": "American Football",
+      "has_synced": true,
+      "path": "select/08_But_the_Regrets_Are_Killing_Me_American_Football.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You're Killing Me",
+      "artist": "Pavement",
+      "has_synced": true,
+      "path": "select/09_You're_Killing_Me_Pavement.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It's Killing Me",
+      "artist": "Ufo",
+      "has_synced": false,
+      "path": "select/10_It's_Killing_Me_Ufo.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Killing Me Softly (live)",
+      "artist": "Fugees",
+      "has_synced": false,
+      "path": "select/11_Killing_Me_Softly_(live)_Fugees.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "NY Is Killing Me",
+      "artist": "Gil Scott-Heron and Jamie xx",
+      "has_synced": true,
+      "path": "select/12_NY_Is_Killing_Me_Gil_Scott-Heron_and_Jamie_xx.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Killing Me",
+      "artist": "Diamond Head",
+      "has_synced": false,
+      "path": "select/13_Killing_Me_Diamond_Head.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stop Killing Me",
+      "artist": "The Primitives",
+      "has_synced": true,
+      "path": "select/14_Stop_Killing_Me_The_Primitives.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Boys Are Killing Me",
+      "artist": "Pond",
+      "has_synced": true,
+      "path": "select/15_The_Boys_Are_Killing_Me_Pond.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Killing Me",
+      "artist": "Biohazard",
+      "has_synced": true,
+      "path": "select/16_Killing_Me_Biohazard.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Life Is Killing Me",
+      "artist": "Type O Negative",
+      "has_synced": true,
+      "path": "select/17_Life_Is_Killing_Me_Type_O_Negative.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Killing Me",
+      "artist": "CHUNG HA",
+      "has_synced": false,
+      "path": "select/pl_01_Killing_Me_CHUNG_HA.txt"
+    }
+  ]
+}
